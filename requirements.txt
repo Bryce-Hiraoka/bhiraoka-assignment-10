@@ -1,0 +1,7 @@
+uvicorn
+fastapi
+pydantic
+scikit-learn
+numpy==1.24.3
+pandas
+pillow
